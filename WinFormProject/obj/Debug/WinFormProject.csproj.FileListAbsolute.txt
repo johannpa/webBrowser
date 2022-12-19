@@ -1,0 +1,10 @@
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe.config
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\bin\Debug\WinFormProject.exe
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\bin\Debug\WinFormProject.pdb
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.AssemblyReference.cache
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.frmMain.resources
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.Properties.Resources.resources
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.GenerateResource.cache
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.exe
+C:\Users\pablo\Desktop\projets_cs\WinFormProject\WinFormProject\obj\Debug\WinFormProject.pdb
